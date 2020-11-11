@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimatrazmjo&show_icons=true" alt="my github stats" width="420"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimatrazmjo&layout=compact" alt="my top languages" height="165">
+</p>
 
 <!--
 **nimatrazmjo/nimatrazmjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
