@@ -1,6 +1,6 @@
 <p align="left"> <a href="https://twitter.com/nimatrazmjo" target="blank"><img src="https://img.shields.io/twitter/follow/nimatrazmjo?logo=twitter&style=for-the-badge" alt="nimatrazmjo" /></a> </p>
 
-- 🔭 I’m currently working on [Eliebrains]([https://www.jobs.af](https://www.elitebrains.com/))
+- 🔭 I’m currently working on [Elitebrains](https://www.elitebrains.com/)
 
 - 🌱 I’m currently learning **DevOps**
 
