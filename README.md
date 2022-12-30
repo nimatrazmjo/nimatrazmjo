@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Elitebrains](https://www.elitebrains.com/)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps** and **Blockchain**
 
 - 📝 I regulary write articles on [https://nimatrazmjo.dev](https://nimatrazmjo.dev)
 
