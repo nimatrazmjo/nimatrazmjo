@@ -18,12 +18,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/nimatrazmjo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/nimatrazmjo" height="30" width="40" /></a>
-<a href="https://twitter.com/nimatrazmjo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nimatrazmjo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nimatrazmjo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nimatrazmjo/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/2790266/nimatullah-razmjo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/2790266/nimatullah-razmjo" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nimatrazmjo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/nimatrazmjo" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nimathrazmjo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/nimathrazmjo/" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/nimatrazmjo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/nimatrazmjo" height="30" width="40" /></a>
+<a href="https://twitter.com/nimatrazmjo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nimatrazmjo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nimatrazmjo/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nimatrazmjo/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/2790266/nimatullah-razmjo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/2790266/nimatullah-razmjo" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/nimatrazmjo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/nimatrazmjo" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/nimathrazmjo/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/nimathrazmjo/" height="30" width="40" /></a>
 <a href="https://medium.com/@nimatrazmjo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nimatrazmjo" height="30" width="40" /></a>
 </p>
 
