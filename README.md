@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DevOps** and **Blockchain**
 
-- 📝 I regulary write articles on [https://nimatrazmjo.dev](https://nimatrazmjo.dev)
+- 📝 I regulary write articles on [https://nimat.dev](https://nimat.dev)
 
 - 💬 Ask me about **NodeJs, React, Next.js,Angular, Laravel, MySQL, Postgressql, MongoDB**
 
