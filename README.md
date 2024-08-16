@@ -6,7 +6,7 @@
 
 - 📝 I regulary write articles on [https://nimatrazmjo.dev](https://nimatrazmjo.dev)
 
-- 💬 Ask me about **NodeJs, Angular, Laravel, MySQL, MongoDB**
+- 💬 Ask me about **NodeJs, React, Next.js,Angular, Laravel, MySQL, Postgressql, MongoDB**
 
 - 📫 How to reach me **nimatullah.razmjo@gmail.com**
 
