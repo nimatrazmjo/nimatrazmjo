@@ -17,7 +17,7 @@ I build **scalable systems, optimized APIs, and modern cloud-native solutions** 
 ## 🛠️ Tech Stack  
 
 **Languages & Frameworks**  
-`Node.js` `Python` `TypeScript` `PHP` `React` `Next.js` `Nest.js` `Express`  
+`Node.js` `Python` `TypeScript`  `React` `Next.js` `Nest.js` `Express`  
 
 **Cloud & DevOps**  
 `AWS` `GCP` `Kubernetes` `Docker` `Terraform` `CI/CD`  
